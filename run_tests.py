@@ -19,3 +19,4 @@ runner.run(unittest.TestSuite((unittest.makeSuite(FindMinTests))))
 runner.run(unittest.TestSuite((unittest.makeSuite(FindMaxTests))))
 runner.run(unittest.TestSuite((unittest.makeSuite(GenerateSummaryTests))))
 runner.run(unittest.TestSuite((unittest.makeSuite(GenerateDailySummaryTests))))
+
